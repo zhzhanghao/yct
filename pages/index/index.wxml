@@ -9,6 +9,6 @@
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
-    <text class="user-motto">hhh大叔大叔大叔的</text>
+    <text class="user-motto"></text>
   </view>
 </view>
